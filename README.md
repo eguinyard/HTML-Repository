@@ -2,10 +2,11 @@
 <html lang=en>
 <head>
 <link rel="stylesheet" href="mystyle.css">
-</head>
 <body>
 <p><bold>This is an example of a Bold Text.</bold></p>
 <p><strong>This text is important!</strong></p>
+</head>
+
 
 
 <h1>HTML Mini-Project</h1>
@@ -26,19 +27,25 @@
 
 <table>
   <tr>
+    <th>Tag</th>
     <th>Syntax</th>
-    <th>Function</th>
-    <th>Use<th>
+    <th>Definition<th>
   </tr>
   <tr>
     <td>Header</td>
-    <td><q>h#</q></td>
-    <td>The name for the command <q>h</q> is <i><ins>Header</ins></i>, which can be used as a local label of a page or piece of text
+    <td><q>h(insert N.V.)</q></td>
+    <td>The syntax for the command <q>h</q> is <i><ins>Header</ins></i>, this can be used as a local label of a page or piece of text.
   </tr>
   <tr>
     <td>Paragraph</td>
     <td><q>p</q></td>
-    <td>The name for this syntax is <i><ins>Paragraph</ins></i> and is used as a placeholder of informational text to the <i><ins>Header</ins></i>
+    <td>The syntax of this command is <i><ins>Paragraph</ins></i>, this is used as a placeholder of informational text to the <i><ins>Header</ins></i>.
   </tr>
+  <tr>
+    <td>Head</td>
+    <td><q>head</q></td>
+    <td>The syntax of this command is <i><ins>Head</ins></i>, this is used as an element for containing metadata, in other words, it's is basically a invisible portion of the page that is used to view data about the data being displayed as text on the viewable portion of the loaded page of the page.</td>
+    </tr>
 </table>
+
 
