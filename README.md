@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang=en>
-<head>
 <link rel="stylesheet" href="mystyle.css">
-<body>
 <p><bold>This is an example of a Bold Text.</bold></p>
 <p><strong>This text is important!</strong></p>
-</head>
+<head>
 
 
 
@@ -44,7 +42,7 @@
   <tr>
     <td>Head</td>
     <td><q>head</q></td>
-    <td>The syntax of this command is <i><ins>Head</ins></i>, this is used as an element for containing metadata, in other words, it's is basically a invisible portion of the page that is used to view data about the data being displayed as text on the viewable portion of the loaded page of the page.</td>
+    <td>The syntax of this command is <i><ins>Head</ins></i>, this is used as an element for containing <ins>metadata</ins>, in other words, it's is basically a invisible portion of the page that is used to view data about the data being displayed as text on the viewable portion of the loaded page of the page.</td>
     </tr>
 </table>
 
