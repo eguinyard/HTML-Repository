@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Red</td>
-    <td>style="color:red;">Red</td>
+    <td><p style="color:red;">Red</p></td>
   </tr>
   <tr>
     <td>February</td>
