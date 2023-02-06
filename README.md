@@ -22,20 +22,23 @@
 
 <p>The next expression is called "Strikeout" or "Del" - <del>The function looks like this</del>.</p>
 
-<h4>The table element</h4>
+<h4>Different Tag Functions</h4>
 
 <table>
   <tr>
-    <th>Color</th>
-    <th>Text</th>
-    <th>HTML Color <q>Id</q><th>
+    <th>Syntax</th>
+    <th>Function</th>
+    <th>Use<th>
   </tr>
   <tr>
-    <td>Red</td>
-    <td><p style="color:red;">Red</p></td>
+    <td>Header</td>
+    <td><q>h#</q></td>
+    <td>The name for the command <q>h</q> is <i><ins>Header</ins></i>, which can be used as a local label of a page or piece of text
   </tr>
   <tr>
-    <td>February</td>
-    <td>$80</td>
+    <td>Paragraph</td>
+    <td><q>p</q></td>
+    <td>The name for this syntax is <i><ins>Paragraph</ins></i> and is used as a placeholder of informational text to the <i><ins>Header</ins></i>
   </tr>
 </table>
+
