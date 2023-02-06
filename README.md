@@ -21,3 +21,20 @@
 <p><i>This is an example text of the "Italic" function that is used to indicate a technical term, a phrase from another language, or a though, etc.</i></p>
 
 <p>The next expression is called "Strikeout" or "Del" - <del>The function looks like this</del>.</p>
+
+<h4>The table element</h4>
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
