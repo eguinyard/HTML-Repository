@@ -54,8 +54,28 @@
     </tr>
 </table>
 
-<body>
-  <p style="color:#FF0000";>Red paragraph text</p>
-</body>
+<h5>Deeper Understanding and Where to Go!</h45>
 
+<p>These are various links to helpful sites that will be abkle to delve into the specific aspects of coding and contain the benefits of <q>coding practice</q> as well.</p>
+
+<h6>Helpful Sites and Resources</h6>
+
+<table>
+  <tr>
+    <th>Site Name</th>
+    <th>Site <i><ins>URL</ins></i><th>
+  </tr>
+  <tr>
+    <td>W3Schools</td>
+    <td><a href="https://www.w3schools.com/">w3schools.com</a>
+  </tr>
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td><a href="https://www.geeksforgeeks.org/html-tags-a-to-z-list/?ref=shm">geeksforgeeks.com</a>
+  </tr>
+  <tr>
+    <td>W3Docs</td>
+    <td><a href="https://www.w3docs.com/">w3docs.com</a>
+  </tr>
+  
 
