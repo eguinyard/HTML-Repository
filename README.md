@@ -4,7 +4,8 @@
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
-<bold>This is an example of a Bold Text.</bold>
+<p><bold>This is an example of a Bold Text.</bold></p>
+<p><strong>This text is important!</strong></p>
 
 
 <h1>HTML Mini-Project</h1>
