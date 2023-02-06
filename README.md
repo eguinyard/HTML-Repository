@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang=en>
 <head>
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
+<bold>This is an example of a Bold Text.</bold>
+
 
 <h1>HTML Mini-Project</h1>
 <p>This is basically a trial and error rundown of the functions of HTML and CSS inline when used on the Github repository site, on a website.</p>
