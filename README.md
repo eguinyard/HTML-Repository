@@ -1,23 +1,30 @@
 <!DOCTYPE html>
+ 
 <html lang="en">
-<head>
-    <link rel="stylesheet" href="mystyle.css">
-</head>
-
-
-
-
+ 
 <body>
+ 
+     
+<h>There is a horizontal rule below this header.</h>
+ 
+ 
+    <!--HTML hr tag is used here-->
+    <hr>
+     
+<h>This is a horizontal rule above this header.</h>
+ 
+ 
+</body>
+ 
+</html> 
 <h1>HTML Mini-Project</h1>
 <p>This is basically a trial and error rundown of the functions of HTML and CSS inline when used on the Github repository site, on a website.</p>
-</body>
 
-<body>
 <h2>To begin the discoveries of the HTML tag functions, I want to start off with the basics.</h2>
 <p>The first instructions of HTML I am going to demonstrate will be "expressive" abbreviations/functions of HTML.</p>
-</body>
 
 <hr>
+
 <h3>These are the basic "expressive" functions which are presented at the top of the list of HTML tag functions.</h3>
 
 <p><strong>This is the function of "Strong" text that is used to grab the readers or website audience's attention when the phrases on the screen need to be read with a sense of urgency for the readers attention to be grasped.</strong></p>
@@ -52,6 +59,3 @@
     <td>The syntax of this command is <i><ins>Head</ins></i>, this is used as an element for containing <ins>metadata</ins>, in other words, it's is basically a invisible portion of the page that is used to view data about the data being displayed as text on the viewable portion of the loaded page of the page.</td>
     </tr>
 </table>
-</body>
-
-
