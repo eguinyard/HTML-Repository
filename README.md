@@ -7,7 +7,6 @@
  <head>    
 <h>There is a horizontal rule below this header.</h>
  
-    <hr>
      
 <h>This is a horizontal rule above this header.</h>
  </head>
