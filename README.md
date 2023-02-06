@@ -26,12 +26,13 @@
 
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Color</th>
+    <th>Text</th>
+    <th>HTML Color <q>Id</q><th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>Red</td>
+    <td>style="color:red;">Red</td>
   </tr>
   <tr>
     <td>February</td>
