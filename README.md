@@ -13,4 +13,4 @@
 <h2>To begin the discoveries of the HTML tag functions, I want to start off with the basics.<h2>
 <p>The first instructions of HTML I am going to demonstrate will be "expressive" abbreviations/functions of HTML.<p>
 
-<b>This is a function of the "Bold" text that is used to grab the readers or website audience's attention when reading the phrases on the screen</b>
+<bold>This is a function of the "Bold" text that is used to grab the readers or website audience's attention when reading the phrases on the screen</bold>
