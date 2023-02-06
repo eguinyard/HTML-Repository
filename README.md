@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="mystyle.css">
-    <title>HTML-Repository</title>
 </head>
 
 
@@ -18,7 +17,7 @@
 <p>The first instructions of HTML I am going to demonstrate will be "expressive" abbreviations/functions of HTML.</p>
 </body>
 
-<body>
+<footer>
 <h3>These are the basic "expressive" functions which are presented at the top of the list of HTML tag functions.</h3>
 
 <p><strong>This is the function of "Strong" text that is used to grab the readers or website audience's attention when the phrases on the screen need to be read with a sense of urgency for the readers attention to be grasped.</strong></p>
@@ -26,7 +25,7 @@
 <p><i>This is an example text of the "Italic" function that is used to indicate a technical term, a phrase from another language, or a though, etc.</i></p>
 
 <p>The next expression is called "Strikeout" or "Del" - <del>The function looks like this</del>.</p>
-</body>
+</footer>
 
 <body>
 <h4>Different Tag Functions</h4>
