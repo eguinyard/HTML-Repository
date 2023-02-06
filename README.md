@@ -53,3 +53,15 @@
     <td>The syntax of this command is <i><ins>Head</ins></i>, this is used as an element for containing <ins>metadata</ins>, in other words, it's is basically a invisible portion of the page that is used to view data about the data being displayed as text on the viewable portion of the loaded page of the page.</td>
     </tr>
 </table>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+
+</body>
+</html>
