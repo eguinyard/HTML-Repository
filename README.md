@@ -7,8 +7,6 @@
  <head>    
 <h>There is a horizontal rule below this header.</h>
  
- 
-    <!--HTML hr tag is used here-->
     <hr>
      
 <h>This is a horizontal rule above this header.</h>
