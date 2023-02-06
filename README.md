@@ -58,10 +58,12 @@
 <html>
 <body>
 
-<p>I am normal</p>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
+<h5 style="color:Tomato;">Hello World</h5>
+
+<p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+<p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
 
 </body>
 </html>
+
