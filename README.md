@@ -18,6 +18,6 @@
 
 <p><strong>This is the function of "Strong" text that is used to grab the readers or website audience's attention when the phrases on the screen need to be read with a sense of urgency for the readers attention to be grasped.</strong></p>
 
-<p><i>This is an example textof the "Italic" fucntion that is used to indicate a technical term, a phrase from another language, or a though, etc.</i></p>
+<p><i>This is an example text of the "Italic" function that is used to indicate a technical term, a phrase from another language, or a though, etc.</i></p>
 
 <p>The next expression is called "Strikeout" or "Del" - <del>The function looks like this</del>.</p>
