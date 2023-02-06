@@ -54,7 +54,7 @@
     </tr>
 </table>
 
-<h5>Deeper Understanding and Where to Go!</h45>
+<h5>Deeper Understanding and Where to Go!</h5>
 
 <p>These are various links to helpful sites that will be abkle to delve into the specific aspects of coding and contain the benefits of <q>coding practice</q> as well.</p>
 
@@ -77,5 +77,5 @@
     <td>W3Docs</td>
     <td><a href="https://www.w3docs.com/">w3docs.com</a>
   </tr>
-  
+
 
